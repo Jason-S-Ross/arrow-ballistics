@@ -1,0 +1,9 @@
+div.ctrl {
+    background-color: lightgray;
+    margin: 4pt;
+}
+
+input {
+    max-width: 6em;
+    background: none;
+}
